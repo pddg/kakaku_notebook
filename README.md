@@ -30,3 +30,6 @@ $ brew install phatomjs
 
 パスが通っているか確認すること．
 
+## ライセンス
+
+MIT
